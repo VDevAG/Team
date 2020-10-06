@@ -6,7 +6,7 @@ A program for randomizing a team based on statistics
 ```sh
 git clone https://github.com/VDevAG/Team.git
 ```
--update statistics.json with the latest info
+-update statistics.json with the latest statistics on played games
 
 ```sh
 python team.py <PlayersThatDontWantToPlay>
