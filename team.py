@@ -1,8 +1,11 @@
 import random
 import sys
+import json
 
-##Update this before running
-players = {"Amin": 2, "Jakob": 2, "Edward": 1, "Hannes": 0, "Philip": 2, "Ludvig": 1, "Axel": 2, "Victor": 2, "Theo": 2, "Keiwan": 2, "Lukas": 2}
+
+jsonText = open('statistics.json', 'r').read()
+players = json.loads(jsonText)
+
 legalTeamSize = 9
 
 def getPlayersWithMostGames():    
