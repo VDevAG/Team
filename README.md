@@ -12,6 +12,13 @@ git clone https://github.com/VDevAG/Team.git
 python team.py <PlayersThatDontWantToPlay>
 ```
 
+### example
+
+```sh
+python team.py Amin Axel
+```
+
+
 ## Requirements
 - Python 3
 
