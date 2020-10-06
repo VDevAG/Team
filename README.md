@@ -2,7 +2,6 @@
 A program for randomizing a team based on statistics
 
 ![picture](img.png)
-
 ## Usage 
 
 ```sh
