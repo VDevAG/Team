@@ -12,7 +12,7 @@ git clone https://github.com/VDevAG/Team.git
 python team.py <PlayersThatDontWantToPlay>
 ```
 
-### example
+### Example
 
 ```sh
 python team.py Amin Axel
